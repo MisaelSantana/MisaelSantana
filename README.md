@@ -1,7 +1,6 @@
 ### Hi! My name is Misael Santana👋
 
 - 🔭 I'm currently working as a zabbix developer at by Seven IT Business and Consulting
-- 📫 How to reach me: "misaahsantana@gmail.com"
 - 😄 Pronouns: he/his
 ##
 
